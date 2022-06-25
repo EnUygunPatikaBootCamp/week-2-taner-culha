@@ -3,8 +3,6 @@
 ## ARAŞTIRMA KONUSU (20 puan)
 Aşağıdaki bağlantıda yer alan isimlendirme geleneklerinin (naming conventions) arasındaki farkları belirten bir paragraflık yazı yazınız. İfadeleri kendi araştırmalarınız sonucunda yazmanız beklenmektedir.
 
-https://www.theserverside.com/answer/Pascal-case-vs-camel-case-Whats-the-difference
-
 CEVAP= Yazılım da isimlendirme kuralları çok önemlidir. Çünkü ilerleyen süreçlerde hem kendimiz için hem de bir ekip ile çalışıyorsak ekip arkadaşlarımıza kolaylık sağlar. Kodlarımızı daha sonrasında tekrardan döndüğümüz de zorluk çekmeden okuyup, eklemeler ve değişiklikler yapabiliriz.
 
 Camel Case için --> ilk kelimenin ilk harfi küçük harfle başlar sonraki her yeni kelime için ilk harfi büyük olur.
