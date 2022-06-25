@@ -13,7 +13,7 @@ class Vehicle {
     $this->wing = $wing;
   }
   protected function intro() {
-    echo "Plate No: {$this->plate} <br> Brand: {$this->brand} <br> Model: {$this->model} <br> Wheels: {$this->wheels} <br><br>"; 
+    echo "Plate No: {$this->plate} <br> Brand: {$this->brand} <br> Model: {$this->model} <br> Wheels: {$this->wheels} <br>"; 
   }
   protected function introPlane() {
     echo "Brand: {$this->brand} <br> Model: {$this->model} <br> Wing: {$this->wing} <br>"; 
